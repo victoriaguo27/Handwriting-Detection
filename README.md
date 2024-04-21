@@ -36,3 +36,6 @@ Packages required:
   
 ## Section 3: Instructions for reproducing results. 
 In order to reproduce these results shown, run the master ipynb file in the SCRIPTS folder. 
+
+## References
+https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
